@@ -1,0 +1,12 @@
+gem:
+  host: ""
+  user: ""
+  password: ""
+  database: ""
+
+rrhh:
+  server: ""
+  database: ""
+  username: ""
+  password: ""
+  encrypt: ""

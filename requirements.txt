@@ -1,0 +1,4 @@
+pandas==2.2.2  
+PyYAML==5.4.1
+mysql-connector-python==8.4.0
+openpyxl
